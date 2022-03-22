@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Funcionários:project xmlns:Funcionários="http://maven.apache.org/POM/4.0.0"
+                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                      xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <Funcionários:modelVersion>4.0.0</Funcionários:modelVersion>
+
+    <Funcionários:groupId>org.example</Funcionários:groupId>
+    <Funcionários:artifactId>Funcionários</Funcionários:artifactId>
+    <Funcionários:version>1.0-SNAPSHOT</Funcionários:version>
+
+    <Funcionários:properties>
+        <Funcionários:maven.compiler.source>17</Funcionários:maven.compiler.source>
+        <Funcionários:maven.compiler.target>17</Funcionários:maven.compiler.target>
+    </Funcionários:properties>
+
+</Funcionários:project>
